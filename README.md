@@ -176,6 +176,43 @@ The GenAI field is situated at the intersection of multiple disciplines. It leve
 108. [Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models](https://arxiv.org/pdf/2405.01535)
 109. [MetaGPT: Meta Programming For A Multi-Agent Collaborative Framework](https://arxiv.org/pdf/2308.00352)
 
+## Prioritized List
+
+### Retrieval Augmentation
+
+35. [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/pdf/2310.11511.pdf)
+36. [InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining](https://arxiv.org/pdf/2310.07713.pdf)
+68. [RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture](https://arxiv.org/pdf/2401.08406.pdf)
+81. [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997.pdf)
+
+### Evaluation
+
+93. [A Critical Evaluation of AI Feedback for Aligning Large Language Models](https://arxiv.org/pdf/2402.12366.pdf)
+108. [Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models](https://arxiv.org/pdf/2405.01535)
+
+### Refinement
+
+69. [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)
+90. [Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models](https://arxiv.org/pdf/2305.04091.pdf)
+100. [Self-Refine: Iterative Refinement with Self-Feedback](https://openreview.net/pdf?id=S37hOerQLB)
+101. [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/pdf/2303.11366.pdf)
+
+
+
+### Small Language Models and reduced Latency
+
+32. [Distil-Whisper: Robust Knowledge Distilation via Large-Scale Pseudo Labelling](https://github.com/huggingface/distil-whisper/blob/main/Distil_Whisper.pdf)
+47. [LLM in a flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/pdf/2312.11514.pdf)
+48. [PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)
+67. [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)
+78. [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/pdf/2401.01335.pdf)
+82. [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/pdf/2402.17764.pdf)
+
+### Other
+
+106. [A survey of Generative AI Applications](https://arxiv.org/pdf/2306.02781)
+
+
 ## Learning Logs
 
 | Date | Learning |
